@@ -30,5 +30,8 @@ public class Book {
   public Integer getPublicationYear() {
     return publicationYear;
   }
+  public Integer getPublicationYer() {
+    return publicationYear;
+  }
 
 }
